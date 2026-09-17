@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Pelumi 👋
 
-<!--
-**pelumiibiks-cell/pelumiibiks-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Systems Engineer | Python | LLM Evaluation | RAG | AI Reliability
 
-Here are some ideas to get you started:
+I build AI systems that are not just functional, but **measurable, explainable, and verifiable**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in:
+
+*  AI Agents & LLM Systems
+*  LLM Evaluation & Benchmarking
+*  RAG & Retrieval Systems
+*  AI/Software Testing
+*  Explainable AI
+*  AI Infrastructure & Model Routing
+
+---
+
+##  Featured Projects
+
+### [QAura](https://github.com/pelumiibiks-cell/QAura)
+
+**Autonomous QA for web applications and AI systems.**
+
+Explores applications, discovers failures, reproduces bugs, localizes likely causes, and generates regression tests.
+
+### [ModelBench](https://github.com/pelumiibiks-cell/ModelBench)
+
+**A deterministic benchmark for evaluating coding-capable LLMs.**
+
+Measures correctness, latency, token usage, cost, and model performance on controlled tasks.
+
+### [ChessLens](https://github.com/pelumiibiks-cell/ChessLens)
+
+**An explainable chess coach that verifies AI-generated explanations.**
+
+Combines engine analysis, retrieval, and mechanical verification to prevent explanations from contradicting the actual position.
+
+### [Clinical-RAG-Agent](https://github.com/pelumiibiks-cell/Clinical-RAG-Agent)
+
+**A retrieval-augmented clinical question answering system.**
+
+Evaluates retrieval and generation separately to identify where failures originate.
+
+---
+
+##  Tech
+
+**Languages:** Python, SQL
+
+**AI/ML:** LLMs, RAG, Agents, Embeddings, Evaluation, Classical ML
+
+**Backend:** FastAPI, REST APIs
+
+**Tools:** Git, GitHub Actions, Docker, pytest
+
+---
+
+##  What I'm Working On
+
+Building reliable AI systems where **evaluation, testing, and verification are first-class components**.
+
+---
+
+##  Connect
+
+• [LinkedIn](https://www.linkedin.com/in/oluwapelumi-ibikunle-4a2b91395/)
+• [Portfolio](https://pelumiibiks-cell.netlify.app/)
