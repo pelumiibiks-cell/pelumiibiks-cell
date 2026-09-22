@@ -41,6 +41,12 @@ Combines engine analysis, retrieval, and mechanical verification to prevent expl
 
 Evaluates retrieval and generation separately to identify where failures originate.
 
+### [RouteIQ](https://github.com/pelumiibiks-cell/RouteIQ)
+
+**An LLM routing system that matches tasks to models on complexity and cost.**
+
+Analyzes a task's requirements and picks the model and reasoning effort that balances quality, cost, and latency.
+
 ---
 
 ##  Tech
